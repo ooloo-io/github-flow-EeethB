@@ -25,6 +25,10 @@ body {
   max-width: 100%;
   margin: auto;
   padding: 20px;
+  min-height: calc(100vh - 100px);
+  width: 720px;
+  max-width: 100%;
+  margin: auto;
 }
 
 .section {
@@ -34,4 +38,9 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
 }
