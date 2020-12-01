@@ -39,5 +39,8 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
->>>>>>> 6e617ac... Top Section (#6)
+}
+
+.section:first-child {
+  margin-top: 0;
 }
