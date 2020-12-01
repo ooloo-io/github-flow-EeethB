@@ -29,6 +29,8 @@ body {
   width: 720px;
   max-width: 100%;
   margin: auto;
+  padding: 20px;
+<<<<<<< HEAD
 }
 
 .section {
@@ -43,4 +45,6 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid red;
+=======
+>>>>>>> 518d330... Content container (#4)
 }
